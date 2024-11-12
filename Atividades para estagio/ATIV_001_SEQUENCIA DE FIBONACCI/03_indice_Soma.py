@@ -5,4 +5,4 @@ k = 1
 while k < indice:
     k = k + 1
     soma = soma + k
-print(soma)
+print(f"O valor da variável soma é {soma}. ")
